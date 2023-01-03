@@ -1,0 +1,11 @@
+#include <iostream>
+using namespace std;
+main(){
+int dollar;
+dollar=200;
+int user;
+cin >> user;
+int result;
+result= user*dollar;
+cout << "CONVERTED PRICE IS" << result;
+}
